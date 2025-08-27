@@ -23,7 +23,7 @@ spec:
     type: Git
     git:
       # IMPORTANT: Replace this URL with the actual URL of your Git repository.
-      uri: "https://github.com/openshift/nodejs-ex.git"
+      uri: "https://github.com/adeelb7/myapp-do180"
 
   # The 'strategy' section defines how to build the application.
   strategy:
